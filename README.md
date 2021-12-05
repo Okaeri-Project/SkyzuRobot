@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://telegra.ph/file/56811b69cbcece20bbebf.jpg">
-</p>
+![photo_2021-12-05_14-15-24](https://user-images.githubusercontent.com/91831925/144741195-1e80a161-ae36-422a-a975-d43e8f675f9b.jpg)
 
-<h4><p align="center"> SKYZU ROBOT </p></h4>
 
-<p align="center">Skyzu Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<h4><p align="center"> Kuro Bot </p></h4>
+
+<p align="center">Kuro Bot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/SkyzuRobot"> <img src="https://img.shields.io/badge/Skyzu-Robot-blue?&logo=telegram" alt="Skyzu on Telegram" /> </a><br>
@@ -22,6 +21,5 @@
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Skyzu/SkyzuRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ```
-This Bot is Created by SkyzuProject, If your kanging this without fork at least give a credit to get a smile of my hard work. 
-- SkyzuRobot
-```
+This Bot is Created by Nino project, If your kanging this without fork at least give a credit to get a smile of my hard work. 
+- Wahyu
